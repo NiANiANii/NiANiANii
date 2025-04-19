@@ -2,7 +2,7 @@
 <h3 align="center">🎧 Part-time Developer, Full-time Music Producer 🎵</h3>
 
 <p align="center">
-  <img src="https://source.unsplash.com/random/800x400?technology,music" alt="random tech/music image" />
+  <img src="https://github.com/NiANiANii/GeoJSON-JTeam/blob/main/Screenshot_2025-04-19_16-33-29.png" />
 </p>
 
 ---
