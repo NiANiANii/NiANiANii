@@ -2,7 +2,7 @@
 <h3 align="center">🎧 Part-time Developer, Full-time Music Producer 🎵</h3>
 
 <p align="center">
-  <img src="https://nianianii.github.io/GeoJSON-JTeam/WhatsApp%20Image%202025-07-28%20at%203.15.22%20PM.jpeg" />
+  <img src="https://nianianii.github.io/GeoJSON-JTeam/WhatsApp Image 2025-07-28 at 3.15.22 PM.jpg" />
 </p>
 
 ---
